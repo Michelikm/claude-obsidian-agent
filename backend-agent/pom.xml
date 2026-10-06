@@ -1,0 +1,17 @@
+# Java agent memory starter
+
+Este projeto inicial cria a base para um agente em Java com memória de contexto e integração do Claude.
+
+## Como executar
+
+```bash
+cd backend-agent
+./mvnw spring-boot:run
+```
+
+Se o wrapper não existir no início, o projeto pode ser iniciado com Maven padrão:
+
+```bash
+cd backend-agent
+mvn spring-boot:run
+```

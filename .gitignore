@@ -1,0 +1,19 @@
+# Plugin Obsidian
+
+Este módulo será responsável por:
+- conectar com o bot Java;
+- enviar contexto de notas;
+- receber decisões e sugestões;
+- permitir que o usuário autorize ou automatize ações.
+
+## Fase inicial
+
+- interface mínima de comando;
+- comunicação com API local do agente;
+- painel de ação e histórico.
+
+## Próximos passos
+
+- integrar com o vault do usuário;
+- criar comandos do plugin;
+- permitir criação/edição de notas por decisão do agente.
